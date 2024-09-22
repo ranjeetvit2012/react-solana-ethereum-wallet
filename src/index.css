@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card-div {
+  display: flex;
+  justify-content:space-between;
+ /* // margin: 20px 20px; */
+ padding: 20px 20px;
+
+}
+.card-div-wallet {
+  display: flex;
+  justify-content:space-evenly;
+  
+}
+
+.wallet-s{
+  margin-top: 20px;
+}
